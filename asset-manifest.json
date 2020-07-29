@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/smt-fusions-calculator/static/css/main.5f361e03.chunk.css",
+    "main.js": "/smt-fusions-calculator/static/js/main.53b293c5.chunk.js",
+    "main.js.map": "/smt-fusions-calculator/static/js/main.53b293c5.chunk.js.map",
+    "runtime-main.js": "/smt-fusions-calculator/static/js/runtime-main.205023c5.js",
+    "runtime-main.js.map": "/smt-fusions-calculator/static/js/runtime-main.205023c5.js.map",
+    "static/js/2.b35b9ce9.chunk.js": "/smt-fusions-calculator/static/js/2.b35b9ce9.chunk.js",
+    "static/js/2.b35b9ce9.chunk.js.map": "/smt-fusions-calculator/static/js/2.b35b9ce9.chunk.js.map",
+    "index.html": "/smt-fusions-calculator/index.html",
+    "precache-manifest.156b2348d4199f19a2f3f0e50d72b794.js": "/smt-fusions-calculator/precache-manifest.156b2348d4199f19a2f3f0e50d72b794.js",
+    "service-worker.js": "/smt-fusions-calculator/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/smt-fusions-calculator/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b35b9ce9.chunk.js.LICENSE.txt": "/smt-fusions-calculator/static/js/2.b35b9ce9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/smt-fusions-calculator/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.205023c5.js",
+    "static/js/2.b35b9ce9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.53b293c5.chunk.js"
+  ]
+}
